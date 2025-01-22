@@ -1,5 +1,5 @@
 # Advanced Cloud Development Technologies Course - Python Introduction Repository
-
+I taught this course between September 2023 - June 2024, to Higher Level Apprentice of the Cloud Development and Software @ Belfast Metropolitan College.
 Lecture slides, recordings, and practicals can be found [here](https://drive.google.com/drive/folders/1GBWeGZzwmZBVa6XwFNBpEepqNe_FSXld)
 
 For the API learning resources please check the folder `API_Understanding` and refer to [API-Understanding](#API-Understanding)
